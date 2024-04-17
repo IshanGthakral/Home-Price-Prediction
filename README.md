@@ -9,7 +9,7 @@ This project aims to predict the prices of residential homes using machine learn
 Dataset
 -------
 
-The dataset used in this project is sourced from \[source name or link\]. It contains information about residential properties including features like square footage, number of bedrooms, number of bathrooms, location, and sale price.
+The dataset used in this project is sourced from \[kaggle]. It contains information about residential properties including features like square footage, number of bedrooms, number of bathrooms, location, and sale price.
 
 Project Structure
 -----------------
@@ -19,23 +19,6 @@ Project Structure
 *   `models/`: Trained machine learning models saved for future use.
 *   `src/`: Source code for data preprocessing, feature engineering, model training, and evaluation.
 *   `requirements.txt`: Python dependencies required to run the project.
-
-Setup
------
-
-1.  Clone the repository:
-    
-    bashCopy code
-    
-    `git clone https://github.com/your-username/home-price-prediction.git cd home-price-prediction`
-    
-2.  Install dependencies:
-    
-    Copy code
-    
-    `pip install -r requirements.txt`
-    
-3.  Run the notebooks in the `notebooks/` directory to understand the data and the steps involved in training the models.
 
 Usage
 -----
@@ -56,6 +39,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 * * *
-
-Feel free to customize this README according to your project's specifics. Make sure to include relevant information about your project, dataset, and how to use the code.
 
